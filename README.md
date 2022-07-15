@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React and Node
 - 💞️ I’m looking to collaborate on any project that is useful for people
 - 📺 One of my favorite tv-shows is Malcolm in the Middle
-- 🎵 Favorite Music: Imagine Dragons, Stray Kids
+- 🎵 Favorite Music: Imagine Dragons, Bigbang, Stray Kids
 - 📫 How to reach me: yazmin.melgozazamarripa@gmail.com
 
 <!---
