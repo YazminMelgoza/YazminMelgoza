@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YazminMelgoza
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Flutter :)
+- 🌱 I’m currently learning AdonisJS framework
 - 💞️ I’m looking to collaborate on any project that is useful for people
 - 📺 One of my favorite tv-shows is Malcolm in the Middle
-- 🎵 Favorite Music: Imagine Dragons, Bigbang, My Chemical Romance & Billy Joel
+- 🎵 Favorite Music: My Chemical Romance, Billy Joel and Bigbang
 - 📫 How to reach me: yazmin.melgozazamarripa@gmail.com
